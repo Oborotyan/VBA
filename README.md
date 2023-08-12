@@ -10,9 +10,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Platform Compatibility
 
-[p_all]: ./resources/Crown.svg  "Compatible on all platforms"
-[p_mac]: ./resources/AppleLogo.svg "Mac OS only"
-[p_win]: ./resources/WindowsLogo.svg "Windows OS only"
+[p_all]: ./storage/Crown.svg  "Compatible on all platforms"
+[p_mac]: ./storage/AppleLogo.svg "Mac OS only"
+[p_win]: ./storage/WindowsLogo.svg "Windows OS only"
 
 * [![p_all]](#-) - Compatible on all platforms
 * [![p_mac]](#-) - Mac compatible
@@ -20,13 +20,13 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Application compatibility 
 
-[a_all]: ./resources/Star.svg "All applications"
-[a_wd]: ./resources/WordLogo.svg "Word"
-[a_xl]: ./resources/ExcelLogo.svg "Excel"
-[a_ac]: ./resources/AccessLogo.svg "Access"
-[a_ol]: ./resources/OutlookLogo.svg "Outlook"
-[a_pp]: ./resources/PowerPointLogo.svg "PowerPoint"
-[a_misc]: ./resources/Duck.svg
+[a_all]: ./storage/Star.svg "All applications"
+[a_wd]: ./storage/WordLogo.svg "Word"
+[a_xl]: ./storage/ExcelLogo.svg "Excel"
+[a_ac]: ./storage/AccessLogo.svg "Access"
+[a_ol]: ./storage/OutlookLogo.svg "Outlook"
+[a_pp]: ./storage/PowerPointLogo.svg "PowerPoint"
+[a_misc]: ./storage/Duck.svg
 
 * [![a_all]](#-) - All applications
 * [![a_wd]](#-) - Word
@@ -38,11 +38,11 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Other important information
 
-[o_32]: ./resources/32-Bit.svg "32-bit only"
-[o_pass]: ./resources/Padlock.svg "VBA is password protected"
-[o_dll]: ./resources/Dependencies.svg
-[o_inst]: ./resources/Installation.svg "Requires installation"
-[o_paid]: ./resources/Money.svg
+[o_32]: ./storage/32-Bit.svg "32-bit only"
+[o_pass]: ./storage/Padlock.svg "VBA is password protected"
+[o_dll]: ./storage/Dependencies.svg
+[o_inst]: ./storage/Installation.svg "Requires installation"
+[o_paid]: ./storage/Money.svg
 
 * [![o_32]](#-) - 32-bit only 
 * [![o_pass]](#-) - Written in VBA but the code is password protected
