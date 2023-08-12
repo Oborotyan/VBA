@@ -1,4 +1,4 @@
-# Awesome VBA ![VBALogo](./resources/VBALogo.png) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome VBA ![VBALogo](./storage/VBALogo.png) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 Visual Basic for Applications (VBA) is an implementation of Microsoft's event-driven programming language Visual Basic 6.0 (VB6) built into most desktop Microsoft Office applications.
 
